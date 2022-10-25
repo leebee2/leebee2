@@ -19,15 +19,16 @@ I trying to become a nice developer😎
 ![](https://img.shields.io/badge/Visual_Studio_Code-E10098?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=PyCharm&logoColor=white)
 <br>
+<br>
 
 ### 💡 Stats & Most Used Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebee2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leebee2&layout=compact&theme=radical)
 <br>
+<br>
 
 
 ### 📫 How to reach me
-
 <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
 
 
