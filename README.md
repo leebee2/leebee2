@@ -18,7 +18,7 @@ I trying to become a nice developer😎
 ![](https://img.shields.io/badge/VisualStudioCode-E10098?style=flat-square&logo=GraphQL&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=GraphQL&logoColor=white)
 
-<br><br>
+<br>
 
 ##
 
@@ -28,9 +28,9 @@ I trying to become a nice developer😎
 <br>
 
 
-##📫 How to reach me
+## 📫 How to reach me
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
+<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
