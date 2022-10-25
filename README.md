@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20%20%20&height=200&fontSize=90&fontColor=ffffff)
-
 ## 🙌 Introduction
 Hi, I'm soyeon.
 I trying to become a nice developer😎
@@ -31,7 +29,3 @@ I trying to become a nice developer😎
 ## 📫 How to reach me
 
 <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
-
