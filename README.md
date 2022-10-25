@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-## 🙌 Introduction
+### 🙌 Introduction
 Hi, I'm soyeon.
 I trying to become a nice developer😎
 <br>
 <br>
 
-## 💻 STACK
+### 💻 STACK
 
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -22,7 +22,8 @@ I trying to become a nice developer😎
 
 <br>
 
-##
+### 💡 Stats & Most Used Languages
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebee2&show_icons=true&theme=radical)
 
@@ -30,7 +31,7 @@ I trying to become a nice developer😎
 <br>
 
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
 
