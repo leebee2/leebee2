@@ -15,18 +15,13 @@ I trying to become a nice developer😎
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=black)
-
 <br>
-![](https://img.shields.io/badge/VisualStudioCode-E10098?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-darkgreen?style=flat-square&logo=PyCharm&logoColor=white)
-
+![](https://img.shields.io/badge/Visual_Studio_Code-E10098?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=PyCharm&logoColor=white)
 <br>
 
 ### 💡 Stats & Most Used Languages
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebee2&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leebee2&layout=compact&theme=radical)
 <br>
 
