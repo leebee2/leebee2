@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20SoYeonLee%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20%20%20&height=200&fontSize=90&fontColor=ffffff)
 
+## 🙌 Introduction
+Hi, I'm soyeon.
+I trying to become a nice developer😎
 
 ## 💻 STACK
 
@@ -13,9 +16,16 @@
 ![](https://img.shields.io/badge/VisualStudioCode-E10098?style=flat-square&logo=GraphQL&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=GraphQL&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leebee2&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leebee2&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leebee2&layout=compact&theme=radical)
+
+##📫 How to reach me
+
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=EA4335"/> : leebee4026@gmail.com
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
